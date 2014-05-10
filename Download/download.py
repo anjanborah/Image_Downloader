@@ -1,3 +1,10 @@
+"""
+A simple programme to download images from a webpage
+GitHub - https://github.com/anjanborah/Image_Downloader
+Author - Anjan Borah
+Copyright ( c ) 2014 Anjan Borah
+"""
+
 import sys
 import urlparse
 import urllib
